@@ -1,13 +1,13 @@
 # Homework 3
 
-Ссылка на XML
+<b>Ссылка на XML</b>
 
 <C:\Users\admin\Desktop\Test QA\Homework\HW 3\user.xml.xml>  
 
-Ссылка на JSON
+<b>Ссылка на JSON</b>
 
 <file:///C:/Users/admin/Desktop/Test%20QA/Homework/HW%203/user.json.json>
 
-Ссылка на HTML страницу
+<b>Ссылка на HTML страницу</b>
 
 <file:///C:/Users/admin/Desktop/Test%20QA/Homework/HW%203/index.html>
