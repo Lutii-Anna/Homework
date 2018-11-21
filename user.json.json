@@ -1,0 +1,16 @@
+{
+"Id":"3345477675",
+"firstname":"Anna",
+"lastname":"Lutii",
+"adress":{
+"streetadress":"Bereznyakovskaya h.136, ap.158",
+"city":"Kyiv",
+"postalcode":"01100"
+},
+"phoneNumbers": [
+"0977452534",
+"0503121389"
+]
+"email":"annalutisha@gmail.com",
+"skype":"Anna Lutii"
+}
