@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<person>
+  <id>2811198877</id>
+  <firstname>Анна</firstname>
+  <lastname>Лутий</lastname>
+ <adress>
+  <streetAdress>Березняковская, 16, кв.190</streetAdress>
+  <city>Киев</city>
+  <postalCode>02108</postalCode>
+ </adress>
+ <phonenumbers> 
+  <phonenumber>0977452534</phonenumber>
+  <phonenumber>0502131942</phonenumber>
+ </phonenumbers> 
+ <email>annalutisha@gmail.com</email>
+ <skype>Anna Lutii</skype>
+</person>
+
